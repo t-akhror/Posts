@@ -1,0 +1,7 @@
+export const SET_USERS="SET_USERS";
+export const SET_POSTS="SET_POSTS";
+export const PUT_POSTS="PUT_POSTS";
+export const SET_SINGLEPOST="SET_SINGLEPOST";
+export const PUT_SINGLEPOST="PUT_SINGLEPOST";
+export const SET_COMMENTS="SET_COMMENTS";
+export const PUT_COMMENTS="PUT_COMMENTS";
